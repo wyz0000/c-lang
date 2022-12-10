@@ -1,0 +1,5 @@
+﻿  text.c
+D:\Users\ASUS\source\repos\22-12-10\text.c(21,2): warning C4013: “gets”未定义；假设外部返回 int
+D:\Users\ASUS\source\repos\22-12-10\text.c(22,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Users\ASUS\source\repos\22-12-10\text.c(22,9): message : 请考虑在格式字符串中使用“%zd”
+  22-12-10.vcxproj -> D:\Users\ASUS\source\repos\22-12-10\x64\Debug\22-12-10.exe
